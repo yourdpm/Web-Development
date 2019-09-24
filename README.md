@@ -12,7 +12,7 @@ Các tính năng nổi bật bao gồm:
 Online Book Store version 1.0 cung cấp những chức năng chính được mô tả ở bảng dưới đây:
 
 | STT      | Tên chức năng | Actor     | Mô tả     |
-| :---:        |    :----:   |          :---: |          :---: |
+| :---:        |    :----:   |          :---: |          :--- |
 | 1      | Xem sách       | Người mua   | Người mua truy cập vào trang web và xem những cuốn sách cần mua, gồm có bìa sách thông tin về   tác giả, năm xuất bản, một đoạn ngắn giới thiệu về cuốn sách |
 | 2   | Thêm sách vào giỏ hàng        | Người mua      |  Người mua nhấn thêm vào giỏ hàng cuốn sách cần mua     |
 | 3   | Mua sách        | Người mua      | Người mua xác nhận đơn hàng trong giỏ và yêu cầu mua hàng      |
